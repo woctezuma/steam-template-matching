@@ -2,6 +2,8 @@
 
 The goal of this repository is to provide a Colab notebook to match a template with Steam store images.
 
+![Expected results][wiki-cover]
+
 ## Usage
 
 -   Run [`steam_template_matching.ipynb`][colab-notebook-template-matching]
@@ -53,6 +55,7 @@ Correlation score: 0.78
 
 [colab-notebook-template-matching]: <https://colab.research.google.com/github/woctezuma/steam-template-matching/blob/main/steam_template_matching.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+[wiki-cover]: <https://github.com/woctezuma/steam-template-matching/wiki/img/img_B1.jpg>
 [wiki-A1]: <https://github.com/woctezuma/steam-template-matching/wiki/img/img_A1.jpg>
 [wiki-A2]: <https://github.com/woctezuma/steam-template-matching/wiki/img/img_A2.jpg>
 [wiki-B1]: <https://github.com/woctezuma/steam-template-matching/wiki/img/img_B1.jpg>
