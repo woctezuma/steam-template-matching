@@ -2,7 +2,7 @@
 
 The goal of this repository is to provide a Colab notebook to match a template with Steam store images.
 
-# Usage
+## Usage
 
 -   Run [`steam_template_matching.ipynb`][colab-notebook-template-matching]
 [![Open In Colab][colab-badge]][colab-notebook-template-matching]
