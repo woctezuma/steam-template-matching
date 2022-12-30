@@ -1,0 +1,4 @@
+matplotlib
+mediapy
+PyQt5
+scikit-image
