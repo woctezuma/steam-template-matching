@@ -1,0 +1,26 @@
+[
+    {
+        "webhost": "https://cdn.cloudflare.steamstatic.com/steam/apps/1227690/",
+        "fname": "library_600x900_2x.jpg",
+        "filetype": ".jpg",
+        "template_scale": 0.5
+    },
+    {
+        "webhost": "https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/",
+        "fname": "EGS_SeveredSteel_GreylockStudio_S1_2560x1440-7563487f2c1135a79b72a4d2c198d544",
+        "filetype": ".png",
+        "template_scale": 1.0
+    },
+    {
+        "webhost": "https://cdn.cloudflare.steamstatic.com/steam/apps/1227690/",
+        "fname": "logo.png",
+        "filetype": ".png",
+        "template_scale": 0.3
+    },
+    {
+        "webhost": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/",
+        "fname": "Copyof15days-day13-wrapped-desktop-carousel-image1_1920x1080-e51f44e53902838f18bae6d3b0f1687e",
+        "filetype": ".png",
+        "template_scale": 0.5
+    }
+]
