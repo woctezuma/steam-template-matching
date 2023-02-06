@@ -63,7 +63,12 @@ def show_template_matching_result(result, image, template, score):
     return
 
 
-def run_template_matching_using_configs(test_config, template_config, show_images=True, verbose=True):
+def run_template_matching_using_configs(
+    test_config,
+    template_config,
+    show_images=True,
+    verbose=True,
+):
     test_image = load_image_from_disk(test_config)
     image_fname = get_image_name(test_config)
     template_scale = get_template_scale(test_config)
