@@ -1,6 +1,7 @@
 import json
+from pathlib import Path
 
 
 def load_json(fname):
-    with open(fname, encoding="utf8") as file:
+    with Path(fname).open(encoding="utf8") as file:
         return json.load(file)
